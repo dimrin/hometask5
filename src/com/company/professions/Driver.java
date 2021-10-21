@@ -2,7 +2,7 @@ package com.company.professions;
 
 public class Driver extends Person {
 
-    private int experience ;
+    private int experience;
 
     public int getExperience() {
         return experience;
